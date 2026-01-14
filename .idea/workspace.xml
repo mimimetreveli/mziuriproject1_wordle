@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6bc7fe-2d6e-4bf6-8a09-6289befbbf69" name="Changes" comment=".idea" />
+    <list default="true" id="ea6bc7fe-2d6e-4bf6-8a09-6289befbbf69" name="Changes" comment=".idea">
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/_virtualenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/pip-25.1.1.virtualenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/wordle.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
